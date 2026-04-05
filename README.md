@@ -1,159 +1,318 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=80&lines=Hey+there%2C+I'm+Lokesh+Reddy+Elluri+%F0%9F%91%8B;Data+Science+%7C+ML+Engineer+%7C+Backend+Developer)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:1F6FEB,75:161B22,100:0D1117&height=220&section=header&text=Lokesh%20Reddy%20Elluri&fontSize=44&fontColor=FFFFFF&fontAlignY=30&desc=Data%20Scientist%20%20%E2%80%A2%20%20ML%20Engineer%20%20%E2%80%A2%20%20Backend%20Developer&descSize=16&descColor=58A6FF&descAlignY=52&animation=fadeIn" />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Animated typing subtitle -->
+<a href="https://github.com/Lokesh1566">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=25&lines=Building+ML+systems+that+scale+to+millions+%F0%9F%9A%80;IEEE+Published+Researcher+%7C+NLP+%7C+Deep+Learning+%F0%9F%94%AC;MS+Data+Science+%40+Indiana+University+Bloomington+%F0%9F%8E%93;Python+%E2%80%A2+Spark+%E2%80%A2+AWS+%E2%80%A2+TensorFlow+%E2%80%A2+PyTorch+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
-<samp>
-MS in Data Science @ Indiana University Bloomington · Building scalable ML systems & data pipelines
-</samp>
+<br/>
+
+<!-- Social badges -->
+<a href="https://lokesh1566.github.io/lokeshreddyelluri.github.io/"><img src="https://img.shields.io/badge/%20Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/lokesh-reddy-elluri-a77a7b201"><img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:redfylokesh@gmail.com"><img src="https://img.shields.io/badge/%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Lokesh1566&color=58A6FF&style=for-the-badge&label=VISITORS" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### &nbsp;🧑‍💻 `> cat about_me.py`
+
+```python
+class Lokesh:
+    
+    role       = "Data Scientist & ML Engineer"
+    education  = "MS Data Science — Indiana University Bloomington (GPA: 3.74)"
+    research   = "IEEE Xplore — CONIT 2023"
+    location   = "Bloomington, IN 🇺🇸"
+    
+    languages  = ["Python", "Java", "JavaScript", "R", "C"]
+    ml_stack   = ["TensorFlow", "PyTorch", "Scikit-learn", "NLP", "Deep Learning"]
+    big_data   = ["Spark", "Hadoop", "Snowflake", "Pandas", "NumPy"]
+    cloud      = ["AWS", "GCP"]
+    backend    = ["Django", "FastAPI", "REST APIs", "PostgreSQL", "MongoDB"]
+    devops     = ["Docker", "Git", "Linux", "CI/CD"]
+    
+    currently  = "Building production ML pipelines & RAG systems"
+    looking_for = "Data Science | ML Engineering | SDE roles"
+```
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### &nbsp;⚡ Tech Arsenal
+
+<div align="center">
+
+#### 🔤 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,r,c&theme=dark" alt="languages" />
+</p>
+
+#### 🤖 ML & AI
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="ml" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+</p>
+
+#### 🗄️ Backend & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgresql,mysql,mongodb&theme=dark" alt="backend" />
+</p>
+
+#### ☁️ Big Data & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git&theme=dark" alt="cloud" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+</p>
+
+#### 📊 Visualization
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### &nbsp;🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🔮 Customer Churn Predictor</h3>
+
+<div align="center">
+  
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh1566/churn-predictor)
+
+</div>
+
+End-to-end ML system that predicts customer churn with **3 model comparison**, automated feature engineering, REST API, and interactive dashboard.
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+```
+📊 5 engineered features
+🏆 3 models compared (LR, RF, GB)
+🌐 FastAPI REST endpoint
+📈 Streamlit dashboard + Plotly
+🐳 Docker deployment ready
+```
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📄 RAG Document Q&A</h3>
+
+<div align="center">
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh1566/doc-qa-rag)
+
+</div>
+
+Upload PDFs & documents, ask questions in natural language, get answers with **source citations**. Powered by FAISS vector search and LLMs.
+
+<div align="center">
+
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+```
+🔍 Semantic search with FAISS
+📎 PDF/TXT/MD ingestion
+🧠 3 LLM backends supported
+💬 Chat UI with source citations
+⚡ CLI + REST API + Streamlit
+```
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>&nbsp;📂 More Projects — click to expand</b></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">🛡️ XSS Vulnerability Detector</h4>
+<p align="center">
+<a href="https://github.com/Lokesh1566/Real-time-XSS-Vulnerability-Detection">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+<p align="center"><em>ML-based real-time XSS detection</em><br/><strong>📜 Published in IEEE CONIT 2023</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Security-DC382D?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">🔐 Secure Financial Transactions</h4>
+<p align="center">
+<a href="https://github.com/Lokesh1566/Secure-Financial-Transaction-System">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+<p align="center"><em>AES-256 + RSA encryption system</em><br/>10,000+ transaction tests</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptography-2C2D72?style=flat-square" />
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4 align="center">🖼️ JPEG Forensics Analyzer</h4>
+<p align="center">
+<a href="https://github.com/Lokesh1566/JPEG-Error-Analysis">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+<p align="center"><em>DCT analysis for detecting image tampering</em><br/>Reduced manual forensic time by 40%</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4 align="center">🍽️ Food Waste Reduction Platform</h4>
+<p align="center">
+<a href="https://github.com/Lokesh1566/EXCESS-FOOD-MANAGEMENT-SYSTEM">
+<img src="https://img.shields.io/badge/View_Repo-0D1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+<p align="center"><em>Connecting surplus food donors with communities</em><br/>Full-stack web application</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### &nbsp;💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+**🏥 Data Scientist Intern** — Vidal Health, Bengaluru `Feb 2024 – Apr 2024`
+
+> Built NLP chatbot reducing support tickets by **15%** across 5,000+ monthly interactions  
+> Trained classification models cutting average handling time by **30%**  
+> Engineered automated email pipelines with REST APIs, improving efficiency by **20%**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+**💼 Software Engineer Intern** — Team Lease, Bengaluru `May 2023 – Jun 2023`
+
+> Built full-stack ATS platform managing **500+** applicants (Django + PostgreSQL)  
+> Implemented RESTful APIs reducing manual processing by **25%**  
+> Deployed real-time analytics dashboards cutting time-to-hire by **10%**
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### &nbsp;🎓 Education
+
+<table>
+<tr>
+<td>🏛️</td>
+<td><strong>Indiana University Bloomington</strong><br/>Master's in Data Science · GPA: 3.74/4.0<br/><sub>Applied ML · Advanced Databases · Data Mining · Big Data · Algorithms</sub></td>
+<td><code>Aug 2024 — May 2026</code></td>
+</tr>
+<tr>
+<td>🏛️</td>
+<td><strong>Vellore Institute of Technology</strong><br/>B.Tech Computer Science (Bioinformatics) · GPA: 8.14/10<br/><sub>DSA · OOP · AI · Machine Learning · Statistics</sub></td>
+<td><code>Sep 2020 — May 2024</code></td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+### 📬 &nbsp;Let's Connect
+
+<br/>
+
+**Open to Data Science · ML Engineering · SDE opportunities**
+
+I'm actively looking for full-time roles starting **May 2026**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/lokesh-reddy-elluri-a77a7b201"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="mailto:redfylokesh@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://lokesh1566.github.io/lokeshreddyelluri.github.io/"><img src="https://img.shields.io/badge/View_Portfolio-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lokesh1566.github.io/lokeshreddyelluri.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-reddy-elluri-a77a7b201)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redfylokesh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lokesh1566)
-
-</div>
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
-
-```yaml
-name: Lokesh Reddy Elluri
-location: Bloomington, Indiana, USA
-education:
-  masters: "M.S. Data Science — Indiana University Bloomington (GPA: 3.74)"
-  bachelors: "B.Tech CS (Bioinformatics) — VIT Vellore (GPA: 8.14/10)"
-
-current_focus:
-  - Machine Learning & NLP systems
-  - Scalable data pipelines (Spark, AWS, GCP)
-  - Backend architecture & REST APIs
-
-highlights:
-  - Published researcher — IEEE Xplore (CONIT 2023)
-  - Former Data Scientist Intern @ Vidal Health
-  - Community Dev Coordinator @ GPSG, Indiana University
-```
-
-<br/>
-
-## 🛠️ &nbsp;Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### ML / AI
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Backend & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Big Data & Cloud
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
-<br/>
-
-## 🚀 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Lokesh1566/churn-predictor">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh1566&repo=churn-predictor&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Lokesh1566/doc-qa-rag">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lokesh1566&repo=doc-qa-rag&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-
-</div>
-
-<br/>
-
-| Project | Description | Tech |
-|---------|------------|------|
-| 🔮 [**Churn Predictor**](https://github.com/Lokesh1566/churn-predictor) | End-to-end ML pipeline with FastAPI & Streamlit dashboard | `Python` `Scikit-learn` `FastAPI` `Docker` |
-| 📄 [**Doc Q&A RAG**](https://github.com/Lokesh1566/doc-qa-rag) | RAG system — upload docs, ask questions, get cited answers | `FAISS` `Sentence-Transformers` `FastAPI` `Streamlit` |
-| 🛡️ [**XSS Detector**](https://github.com/Lokesh1566/Real-time-XSS-Vulnerability-Detection) | ML-based real-time XSS detection — IEEE CONIT 2023 | `Python` `ML` `Security` |
-| 🔐 [**Secure Transactions**](https://github.com/Lokesh1566/Secure-Financial-Transaction-System) | AES-256 + RSA encryption for financial data | `Java` `Cryptography` |
-| 🖼️ [**JPEG Forensics**](https://github.com/Lokesh1566/JPEG-Error-Analysis) | DCT compression analysis for image forensics | `Python` `NumPy` `Matplotlib` |
-| 🍽️ [**Food Waste System**](https://github.com/Lokesh1566/EXCESS-FOOD-MANAGEMENT-SYSTEM) | Platform connecting surplus food donors with communities | `Django` `PostgreSQL` |
-
-<br/>
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lokesh1566&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokesh1566&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lokesh1566&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6D00&currStreakLabel=58A6FF" />
-</div>
-
-<br/>
-
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokesh1566&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6D00&area=true&area_color=58A6FF" width="95%"/>
-</div>
-
-<br/>
-
-## 💼 &nbsp;Experience
-
-| Role | Company | What I Did |
-|------|---------|------------|
-| **Data Scientist Intern** | Vidal Health, Bengaluru | NLP chatbot · ML classification models · REST API pipelines |
-| **Software Engineering Intern** | Team Lease, Bengaluru | Full-stack ATS platform · Django · Real-time dashboards |
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&lines=Open+to+Data+Science+%26+ML+Engineer+roles+%F0%9F%9A%80;Let's+build+something+awesome+together+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lokesh1566&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:161B22,50:1F6FEB,75:161B22,100:0D1117&height=120&section=footer" />
 
 </div>
